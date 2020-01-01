@@ -1,0 +1,1 @@
+console.log("Dont paste any scripts in here!\nThe person giving you these may be stealing your personal data by pasting them in here!");
